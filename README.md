@@ -1,4 +1,5 @@
 # TheStepTester
+![steps](https://github.com/user-attachments/assets/fcac38b5-10f9-485b-8211-1280d2d142c4)
 
 # Documentation for Step Tracker App
 App Purpose -
