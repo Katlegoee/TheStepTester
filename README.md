@@ -39,6 +39,9 @@ GitHub Repository Link
 The source code for this app is hosted on GitHub. You can find the full code, along with instructions for running the app, by visiting the following link:
 GitHub Repository: https://github.com/Katlegoee/TheStepTester/edit/main/README.md
 
+# ScreenShot for the app
+![Screenshot_20250129_110606](https://github.com/user-attachments/assets/305f1e63-a818-4297-a9e3-31787f3f0647)
+
 # Conclusion
 The Step Tracker App is a simple yet effective tool for individuals looking to track their daily physical activity. The app allows for easy data entry, provides useful insights into the user's activity level, and encourages healthy habits by making it easy to track progress over time.
 
