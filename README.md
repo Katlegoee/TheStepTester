@@ -45,3 +45,4 @@ Example of How the App Looks:
 Splash Screen:When the user first opens the app, the Splash Screen is displayed. It shows the app's logo and name a start button to the Main Screen. The splash screen provides an introduction to the app and serves as a brief loading screen.
 Main Screen: Contains input fields for morning and afternoon steps, as well as activity notes, and buttons to clear or submit data.
 Detailed Screen: Displays entered data for the day, as well as the highest step day and the average steps taken.
+
