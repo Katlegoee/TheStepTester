@@ -41,6 +41,9 @@ GitHub Repository: https://github.com/Katlegoee/TheStepTester/edit/main/README.m
 
 # ScreenShot for the app
 ![Screenshot_20250129_110606](https://github.com/user-attachments/assets/305f1e63-a818-4297-a9e3-31787f3f0647)
+![Screenshot_20250129_110626](https://github.com/user-attachments/assets/34260767-4a30-4c65-ac17-ba7ec49409d1)
+![Screenshot_20250129_110822](https://github.com/user-attachments/assets/c97fade9-c6f6-46c5-84cb-04b3af42e449)
+![Screenshot_20250129_111902](https://github.com/user-attachments/assets/658f86ae-6bcc-40d4-acd7-e6a3b2c1a2f0)
 
 # Conclusion
 The Step Tracker App is a simple yet effective tool for individuals looking to track their daily physical activity. The app allows for easy data entry, provides useful insights into the user's activity level, and encourages healthy habits by making it easy to track progress over time.
