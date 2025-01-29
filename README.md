@@ -1,5 +1,5 @@
 # TheStepTester
-Documentation for Step Tracker App
+~ Documentation for Step Tracker App
 App Purpose
 The Step Tracker App is designed to help users track their daily steps, monitor their physical activity, and analyze their progress over the course of a week. The app allows users to input and store data about their steps during different parts of the day (morning and afternoon), along with any additional notes related to their activities. The app calculates the average number of steps per day and provides the user with the ability to view the day with the highest number of steps walked. The app also features a detailed view that displays the entered data in a structured format.
 
